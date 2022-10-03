@@ -1,0 +1,17 @@
+.error {
+  color: red;
+  font-size: 12px;
+
+  &::before {
+    display: inline;
+    content: '⚠ ';
+  }
+}
+
+.eye {
+  cursor: pointer;
+}
+
+.MuiFormHelperText-root {
+  color: rgba(255, 0, 0) !important;
+}
