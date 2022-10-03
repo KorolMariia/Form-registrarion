@@ -1,4 +1,4 @@
-# Multi-step registration form
+# Multi-step registration form ReactJS
 with saving the data of the previous step and loading the avatar.
 
 [Demo](https://korolmariia.github.io/Form-registrarion/)
