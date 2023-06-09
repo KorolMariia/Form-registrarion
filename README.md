@@ -10,7 +10,7 @@ To start the app do (development):
 
 I used:
 * ReactJS:
-    - Context and Reduser;
+* Context and Reducer;
 * SASS
 * Material-UI
 * Form validation with Yup
